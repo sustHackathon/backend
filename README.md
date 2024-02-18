@@ -18,22 +18,22 @@ Provides detailed descriptions, ratings, and reviews for hotels, transportation,
 
 ## Project Structure:
 
-tripmate
+tripmate/
 ├── admin.py                # Administrative functionalities (if applicable)
 ├── auth.py                 # User authentication and authorization logic
 ├── chatBot.py              # Chatbot implementation (if applicable)
-├── config.py                # Configuration settings for various components
+├── config.py               # Configuration settings for various components
 ├── database.py             # Database connection and interaction mechanisms
 ├── forAll.py               # General utility functions (if applicable)
 ├── main.py                 # Application entry point
 ├── models.py               # Data models representing entities (e.g., users, trips, hotels)
 ├── oauth2.py               # OAuth authentication (if applicable)
 ├── prac.py                 # Practice-related code modules (if applicable)
-├── README.md              # This file (project documentation)
+├── README.md               # This file (project documentation)
 ├── router.py               # API routing and request handling
 ├── schedule.py             # Task scheduling functionalities (if applicable)
 ├── schemas.py              # Data validation and serialization/deserialization
-├── tourist.py             # Tourist-related logic and functionalities
+├── tourist.py              # Tourist-related logic and functionalities
 ├── __init__.py             # Initializes the package
 ├── ai.py                   # Artificial intelligence modules (if applicable)
 
